@@ -1,0 +1,3 @@
+/home/shahak/CLionProjects/Ex2_PA/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/shahak/CLionProjects/Ex2_PA/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/shahak/CLionProjects/Ex2_PA/cmake-build-debug/CMakeFiles/Ex2_PA.dir
